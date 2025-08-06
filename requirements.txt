@@ -1,0 +1,26 @@
+# Core video processing
+moviepy>=1.0.3
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# GUI Framework
+PyQt6>=6.5.0
+
+# Audio processing
+pydub>=0.25.1
+matplotlib>=3.5.0
+scipy>=1.10.0
+
+# Performance optimization (skip numba for now due to Python 3.13 compatibility)
+# numba>=0.58.1
+
+# File handling
+# python-magic-bin>=0.4.14  # Skip for now
+
+# Optional: GPU acceleration (uncomment if needed)
+# cupy-cuda11x>=12.3.0
+
+# Development tools
+pytest>=7.4.0
+black>=23.9.0

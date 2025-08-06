@@ -1,0 +1,28 @@
+{
+  "project_id": "e91e98ef-e36f-4df9-9280-e816019e2c60",
+  "settings": {
+    "name": "gfd",
+    "description": "sdf",
+    "created_date": "2025-08-01T05:59:57.951605",
+    "modified_date": "2025-08-01T05:59:57.951764",
+    "version": "1.0",
+    "fps": 30.0,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "audio_sample_rate": 48000,
+    "duration": 0.0
+  },
+  "media_assets": {},
+  "tracks": [],
+  "timeline_clips": [],
+  "effects_presets": [],
+  "export_settings": {},
+  "markers": [],
+  "metadata": {
+    "last_opened": "2025-08-01T05:59:57.951699",
+    "total_edits": 0,
+    "export_count": 0
+  }
+}

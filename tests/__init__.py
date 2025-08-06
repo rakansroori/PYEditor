@@ -1,0 +1,1 @@
+# Tests initialization for PyVideoEditor
